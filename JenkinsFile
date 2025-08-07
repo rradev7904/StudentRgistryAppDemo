@@ -23,7 +23,6 @@ pipeline{
                     }
                 }
             }
-        }
 
         stage('Start application and run tests'){
             steps{
